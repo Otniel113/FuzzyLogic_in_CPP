@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1619227767 source:d:\kuliah online\semester 5\pengantar ai\tugas 2\if4204_1301180469\main.cpp
+	"header.h"
+
+1619227760 d:\kuliah online\semester 5\pengantar ai\tugas 2\if4204_1301180469\header.h
+	<iostream>
+	<conio.h>
+
+1605423102 source:d:\kuliah online\semester 5\pengantar ai\tugas 2\if4204_1301180469\pengeluaran.cpp
+	"header.h"
+
+1605423096 source:d:\kuliah online\semester 5\pengantar ai\tugas 2\if4204_1301180469\penghasilan.cpp
+	"header.h"
+
+1619227503 source:d:\kuliah online\semester 5\pengantar ai\tugas 2\if4204_1301180469\source.cpp
+	"header.h"
+
